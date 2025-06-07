@@ -1,0 +1,13 @@
+.vscode
+Lab01_operators/*.o
+Lab01_operators/test
+Lab02_smart_ptrs/*.o
+Lab02_smart_ptrs/un_test
+Lab02_smart_ptrs/sh_test
+Lab03-iterators/test
+Lab04_pubsub/*.o
+Lab04_pubsub/bc_demo
+Lab05_thread_pool/*.o
+Lab05_thread_pool/main
+Lab06_ffi/*.so
+rgz/Test_graph
